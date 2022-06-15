@@ -7,8 +7,36 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Home
+## Home Page
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/57035775/173824502-c8a867ea-e16b-423e-adb2-92f44dae834f.png">
+
+## Register
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/57035775/173827360-f4aecb1c-f73e-49aa-a0e7-237f610927f9.png">
+
+if there is a column that does not match
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/57035775/173828001-60ab8e2c-f203-4751-a742-16fe46fe91d8.png">
+
+
+## Login
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/57035775/173826760-d24d0be4-36fa-4215-86a4-a6b09de45a2a.png">
+
+
+if username correct and password wrong
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/57035775/173826888-e6419914-67ce-4385-908c-45b8ebbac3c8.png">
+
+if username and password correct
+
+
+
+
+## About Page
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/57035775/173825017-c1094531-8185-47bd-a7f0-5b4fc96a3e66.png">
+
+## Blog Page
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/57035775/173825153-a00d40fb-25a7-48dc-87ea-62b64e617a7c.png">
+
+
+
 
 
 ## About Laravel
